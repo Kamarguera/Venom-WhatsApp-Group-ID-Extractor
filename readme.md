@@ -24,15 +24,16 @@ Este projeto usa o [Venom Bot](https://github.com/orkestral/venom) para abrir o 
 - WhatsApp ativo no seu celular
 
 ---
-
 ## 📂 Estrutura do projeto
+````
+
 📁 seu-projeto/
-├── index.js # Script principal (abre o WhatsApp e lista os grupos)
-├── package.json # Dependências e configuração do projeto
-├── grupos.json # Saída gerada com a lista de grupos
-└── tokens/ # Pasta onde a sessão do Venom é salva (NÃO apagar!)
+├── index.js          # Script principal (abre o WhatsApp e lista os grupos)
+├── package.json      # Dependências e configuração do projeto
+├── grupos.json       # Saída gerada com a lista de grupos
+└── tokens/           # Pasta onde a sessão do Venom é salva (NÃO apagar!)
 
-
+````
 
 ---
 
