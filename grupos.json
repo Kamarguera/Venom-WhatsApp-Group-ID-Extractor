@@ -1,0 +1,6366 @@
+[
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363360477372668",
+      "_serialized": "120363360477372668@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363360477372668",
+        "_serialized": "120363360477372668@g.us"
+      },
+      "id": "DDF676DF86011289D5DDE168A03CB8D7",
+      "participant": {
+        "server": "c.us",
+        "user": "555191054194",
+        "_serialized": "555191054194@c.us"
+      },
+      "_serialized": "false_120363360477372668@g.us_DDF676DF86011289D5DDE168A03CB8D7_555191054194@c.us"
+    },
+    "t": 1753010802,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "RANKING SIMPLES",
+    "notSpam": true,
+    "pin": 1753054252291,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363360477372668",
+        "_serialized": "120363360477372668@g.us"
+      },
+      "name": "RANKING SIMPLES",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {
+        "eurl": "https://pps.whatsapp.net/v/t61.24694-24/473399041_1579158729404281_2025311515859836161_n.jpg?ccb=11-4&oh=01_Q5Aa2AFbQGFKHO7oaj-jRQlH6WTKSJht12sc7nunT9Tm8Cxb3Q&oe=688AC2E8&_nc_sid=5e03e0&_nc_cat=111",
+        "id": {
+          "server": "g.us",
+          "user": "120363360477372668",
+          "_serialized": "120363360477372668@g.us"
+        },
+        "img": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/473399041_1579158729404281_2025311515859836161_n.jpg?stp=dst-jpg_s96x96_tt6&ccb=11-4&oh=01_Q5Aa2AHasR-D31XGZJDEAVDfSHMWGi61JAkQ4y1LZho1LqCblQ&oe=688AC2E8&_nc_sid=5e03e0&_nc_cat=111",
+        "imgFull": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/473399041_1579158729404281_2025311515859836161_n.jpg?ccb=11-4&oh=01_Q5Aa2AFbQGFKHO7oaj-jRQlH6WTKSJht12sc7nunT9Tm8Cxb3Q&oe=688AC2E8&_nc_sid=5e03e0&_nc_cat=111",
+        "tag": "1736868621"
+      },
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363360477372668",
+        "_serialized": "120363360477372668@g.us"
+      },
+      "subject": "RANKING SIMPLES",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363360477372668",
+        "_serialized": "120363360477372668@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363417869905107",
+      "_serialized": "120363417869905107@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363417869905107",
+        "_serialized": "120363417869905107@g.us"
+      },
+      "id": "3ACD69688F6823E77AE7",
+      "participant": {
+        "server": "c.us",
+        "user": "555196535532",
+        "_serialized": "555196535532@c.us"
+      },
+      "_serialized": "false_120363417869905107@g.us_3ACD69688F6823E77AE7_555196535532@c.us"
+    },
+    "t": 1753063257,
+    "unreadCount": 317,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Torneio Simples HT 2025",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417869905107",
+        "_serialized": "120363417869905107@g.us"
+      },
+      "name": "Torneio Simples HT 2025",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417869905107",
+        "_serialized": "120363417869905107@g.us"
+      },
+      "subject": "Torneio Simples HT 2025",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "isLidAddressingMode": false,
+      "defaultSubgroup": false,
+      "participants": [
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555189506264",
+            "_serialized": "555189506264@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555198751340",
+            "_serialized": "555198751340@c.us"
+          },
+          "isAdmin": true,
+          "isSuperAdmin": true
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555181944363",
+            "_serialized": "555181944363@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "554899950421",
+            "_serialized": "554899950421@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "5511973910157",
+            "_serialized": "5511973910157@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "5511991551209",
+            "_serialized": "5511991551209@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555180251976",
+            "_serialized": "555180251976@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555181142208",
+            "_serialized": "555181142208@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555181297373",
+            "_serialized": "555181297373@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555181352263",
+            "_serialized": "555181352263@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555181813299",
+            "_serialized": "555181813299@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555181866001",
+            "_serialized": "555181866001@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555182044961",
+            "_serialized": "555182044961@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555183238884",
+            "_serialized": "555183238884@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555184047484",
+            "_serialized": "555184047484@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555184183505",
+            "_serialized": "555184183505@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555184638366",
+            "_serialized": "555184638366@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555184694064",
+            "_serialized": "555184694064@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555185160375",
+            "_serialized": "555185160375@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555185543909",
+            "_serialized": "555185543909@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555186460574",
+            "_serialized": "555186460574@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555189062928",
+            "_serialized": "555189062928@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555191245520",
+            "_serialized": "555191245520@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555191382207",
+            "_serialized": "555191382207@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555191579796",
+            "_serialized": "555191579796@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555191684197",
+            "_serialized": "555191684197@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555192073331",
+            "_serialized": "555192073331@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555192076353",
+            "_serialized": "555192076353@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555192365466",
+            "_serialized": "555192365466@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555192445300",
+            "_serialized": "555192445300@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555192864312",
+            "_serialized": "555192864312@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555192945450",
+            "_serialized": "555192945450@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555193181913",
+            "_serialized": "555193181913@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555193236330",
+            "_serialized": "555193236330@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555193271213",
+            "_serialized": "555193271213@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555193273371",
+            "_serialized": "555193273371@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555193728025",
+            "_serialized": "555193728025@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555193803444",
+            "_serialized": "555193803444@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555193824468",
+            "_serialized": "555193824468@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555195145160",
+            "_serialized": "555195145160@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555195657576",
+            "_serialized": "555195657576@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555196006990",
+            "_serialized": "555196006990@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555196218512",
+            "_serialized": "555196218512@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555196352919",
+            "_serialized": "555196352919@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555196352939",
+            "_serialized": "555196352939@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555196485137",
+            "_serialized": "555196485137@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555196535532",
+            "_serialized": "555196535532@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555197319073",
+            "_serialized": "555197319073@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555197395539",
+            "_serialized": "555197395539@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555197425907",
+            "_serialized": "555197425907@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555197794901",
+            "_serialized": "555197794901@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555198333004",
+            "_serialized": "555198333004@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555198764824",
+            "_serialized": "555198764824@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555198995818",
+            "_serialized": "555198995818@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555199302917",
+            "_serialized": "555199302917@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555199443848",
+            "_serialized": "555199443848@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555199516577",
+            "_serialized": "555199516577@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555199523367",
+            "_serialized": "555199523367@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555199687431",
+            "_serialized": "555199687431@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555199757561",
+            "_serialized": "555199757561@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555499295212",
+            "_serialized": "555499295212@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555499891736",
+            "_serialized": "555499891736@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555499911598",
+            "_serialized": "555499911598@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555596029748",
+            "_serialized": "555596029748@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        }
+      ],
+      "pendingParticipants": [],
+      "pastParticipants": [
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555197701857",
+            "_serialized": "555197701857@c.us"
+          },
+          "leaveTs": 1753057155,
+          "leaveReason": "Left"
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "555189311000",
+            "_serialized": "555189311000@c.us"
+          },
+          "leaveTs": 1753048456,
+          "leaveReason": "Left"
+        }
+      ],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417869905107",
+        "_serialized": "120363417869905107@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363299885659639",
+      "_serialized": "120363299885659639@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363299885659639",
+        "_serialized": "120363299885659639@g.us"
+      },
+      "id": "3A1469697ADA7A725DF7",
+      "participant": {
+        "server": "c.us",
+        "user": "5521969897976",
+        "_serialized": "5521969897976@c.us"
+      },
+      "_serialized": "false_120363299885659639@g.us_3A1469697ADA7A725DF7_5521969897976@c.us"
+    },
+    "t": 1753061951,
+    "unreadCount": 32,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Jornada de Dados #7",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363299885659639",
+        "_serialized": "120363299885659639@g.us"
+      },
+      "name": "Jornada de Dados #7",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {
+        "eurl": "https://pps.whatsapp.net/v/t61.24694-24/491873916_1227347218713459_5681759228625094619_n.jpg?ccb=11-4&oh=01_Q5Aa2AHSqOnXUDKdg5Qubjc9DSlFodNEEX9RaTwnFXLu1swYGQ&oe=688A9D87&_nc_sid=5e03e0&_nc_cat=109",
+        "id": {
+          "server": "g.us",
+          "user": "120363299885659639",
+          "_serialized": "120363299885659639@g.us"
+        },
+        "img": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/491873916_1227347218713459_5681759228625094619_n.jpg?stp=dst-jpg_s96x96_tt6&ccb=11-4&oh=01_Q5Aa2AGYQF6IlvYM_GqqTVbIElrJSzi361vRPjsgnZXZ-pS5aQ&oe=688A9D87&_nc_sid=5e03e0&_nc_cat=109",
+        "imgFull": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/491873916_1227347218713459_5681759228625094619_n.jpg?ccb=11-4&oh=01_Q5Aa2AHSqOnXUDKdg5Qubjc9DSlFodNEEX9RaTwnFXLu1swYGQ&oe=688A9D87&_nc_sid=5e03e0&_nc_cat=109",
+        "tag": "1752515672"
+      },
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363299885659639",
+        "_serialized": "120363299885659639@g.us"
+      },
+      "creation": 1716169157,
+      "subject": "Jornada de Dados #7",
+      "subjectTime": 1752494764,
+      "desc": "Bem-vindo ao canal oficial da Jornada de Dados no WhatsApp!\n\n⚠️ Atenção!\nPara sua segurança, tome cuidado com mensagens de pessoas que não são administradores da comunidade. Em caso de dúvida, entre em contato com um dos nossos admins.\n\n🎯Aqui, você recebe em primeira mão nossos conteúdos gratuitos, e-books, avisos de lives e novidades sobre a Jornada de Dados!\n\n🤝Fique aqui para acompanhar de perto tudo o que rola na nossa comunidade.\n\n► YouTube: bit.ly/youtubejornadadedados\n► Instagram: https://bit.ly/4dLUf3x\n► LinkedIn: https://bit.ly/3SjfiAY\n► GitHub: https://bit.ly/4djYjGy\n► T-shirts Jornada de Dados: https://bit.ly/3LIPfQ8\n\n📚 O meu E-book já está disponível para download, é só entrar no link abaixo!\n🔗https://bit.ly/ebook-dados-luciano\n----------------‐‐----------------------------\nFaça parte da nossa Jornada de Dados!\n\nTorne-se um Especialista em Dados, Python e SQL!\n\nParticipe de nossa série de workshops e bootcamps, projetada para ajudá-lo a criar pipelines, ETLs e projetos de dados completos. Ideal para quem deseja acelerar seu desenvolvimento na área de dados.\n\n✅Acesso Total e Vitalício\n Com uma única assinatura, você tem acesso vitalício completo aos nossos bootcamps e workshops – inclusive aos próximos lançamentos\n\n✅Aprenda Novas Habilidades\n Metodologia em live code, com aulas ao vivo para você ver passo a passo como criar soluções do zero.\n\n✅Certificados\n Todos os nossos bootcamps e workshops oferecem certificados para você compartilhar no LinkedIn.\n\n✅Suporte com Professores\n Tire suas dúvidas em nosso grupo do WhatsApp, na plataforma ou no Discord.\nReceba suporte não apenas para questões das aulas, mas também para dúvidas de carreira e projetos próprios\n\n👇Clique no link abaixo e saiba mais sobre a Jornada de Dados\nhttps://bit.ly/4fLklnK",
+      "descId": "c7889a24-ff6a-4f5a-90b1-333e497b4421",
+      "descTime": 1748808219,
+      "descOwner": {
+        "server": "c.us",
+        "user": "5521971999253",
+        "_serialized": "5521971999253@c.us"
+      },
+      "restrict": true,
+      "announce": true,
+      "noFrequentlyForwarded": false,
+      "ephemeralDuration": 0,
+      "disappearingModeTrigger": "chat_settings",
+      "membershipApprovalMode": false,
+      "memberAddMode": "admin_add",
+      "reportToAdminMode": false,
+      "size": 695,
+      "support": false,
+      "suspended": false,
+      "terminated": false,
+      "uniqueShortNameMap": {},
+      "isLidAddressingMode": false,
+      "isParentGroup": false,
+      "isParentGroupClosed": false,
+      "defaultSubgroup": false,
+      "generalSubgroup": false,
+      "groupSafetyCheck": false,
+      "generalChatAutoAddDisabled": false,
+      "allowNonAdminSubGroupCreation": false,
+      "lastActivityTimestamp": 0,
+      "lastSeenActivityTimestamp": 0,
+      "incognito": false,
+      "hasCapi": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363299885659639",
+        "_serialized": "120363299885659639@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555193104983-1624318207",
+      "_serialized": "555193104983-1624318207@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": true,
+      "remote": {
+        "server": "g.us",
+        "user": "555193104983-1624318207",
+        "_serialized": "555193104983-1624318207@g.us"
+      },
+      "id": "C66C40829A4AF804C25FDABD7D7390CF",
+      "participant": {
+        "server": "c.us",
+        "user": "555189506264",
+        "_serialized": "555189506264@c.us"
+      },
+      "_serialized": "true_555193104983-1624318207@g.us_C66C40829A4AF804C25FDABD7D7390CF_555189506264@c.us"
+    },
+    "t": 1753060914,
+    "unreadCount": 1850,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "MOTOBOYS ALVORADA OFICIAL",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555193104983-1624318207",
+        "_serialized": "555193104983-1624318207@g.us"
+      },
+      "name": "MOTOBOYS ALVORADA OFICIAL",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555193104983-1624318207",
+        "_serialized": "555193104983-1624318207@g.us"
+      },
+      "subject": "MOTOBOYS ALVORADA OFICIAL",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555193104983-1624318207",
+        "_serialized": "555193104983-1624318207@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555185613325-1537548835",
+      "_serialized": "555185613325-1537548835@g.us"
+    },
+    "pendingMsgs": false,
+    "lastReceivedKey": {
+      "fromMe": true,
+      "remote": {
+        "server": "g.us",
+        "user": "555185613325-1537548835",
+        "_serialized": "555185613325-1537548835@g.us"
+      },
+      "id": "0AEE94FABC823676FF9EFAE450CB8684",
+      "participant": {
+        "server": "c.us",
+        "user": "555189506264",
+        "_serialized": "555189506264@c.us"
+      },
+      "_serialized": "true_555185613325-1537548835@g.us_0AEE94FABC823676FF9EFAE450CB8684_555189506264@c.us"
+    },
+    "t": 1753059941,
+    "unreadCount": 2,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "BLITZ PORTO ALEGRE DIA E NOITE",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555185613325-1537548835",
+        "_serialized": "555185613325-1537548835@g.us"
+      },
+      "name": "BLITZ PORTO ALEGRE DIA E NOITE",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555185613325-1537548835",
+        "_serialized": "555185613325-1537548835@g.us"
+      },
+      "subject": "BLITZ PORTO ALEGRE DIA E NOITE",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555185613325-1537548835",
+        "_serialized": "555185613325-1537548835@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363163488301980",
+      "_serialized": "120363163488301980@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363163488301980",
+        "_serialized": "120363163488301980@g.us"
+      },
+      "id": "3AD535215B111D0126ED",
+      "participant": {
+        "server": "c.us",
+        "user": "555185274627",
+        "_serialized": "555185274627@c.us"
+      },
+      "_serialized": "false_120363163488301980@g.us_3AD535215B111D0126ED_555185274627@c.us"
+    },
+    "t": 1753059748,
+    "unreadCount": 586,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Sobre Trânsito RS 🚨🚔🚓",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363163488301980",
+        "_serialized": "120363163488301980@g.us"
+      },
+      "name": "Sobre Trânsito RS 🚨🚔🚓",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363163488301980",
+        "_serialized": "120363163488301980@g.us"
+      },
+      "subject": "Sobre Trânsito RS 🚨🚔🚓",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363163488301980",
+        "_serialized": "120363163488301980@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363357771730188",
+      "_serialized": "120363357771730188@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363357771730188",
+        "_serialized": "120363357771730188@g.us"
+      },
+      "id": "4A7429D22F1BD0611CB092EA758ED7FE",
+      "participant": {
+        "server": "c.us",
+        "user": "555191442949",
+        "_serialized": "555191442949@c.us"
+      },
+      "_serialized": "false_120363357771730188@g.us_4A7429D22F1BD0611CB092EA758ED7FE_555191442949@c.us"
+    },
+    "t": 1753059672,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "O Clan ..",
+    "notSpam": true,
+    "ephemeralDuration": 604800,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "chatlistPreview": {
+      "type": "reaction",
+      "msgKey": "true_120363357771730188@g.us_3EB040CC3417ADD87C4D83_555189506264@c.us",
+      "parentMsgKey": "false_120363357771730188@g.us_161C23A3E6718A2CF59457AB8791CB36_555191442949@c.us",
+      "reactionText": "😮",
+      "sender": "555189506264@c.us",
+      "timestamp": 1753059977000
+    },
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363357771730188",
+        "_serialized": "120363357771730188@g.us"
+      },
+      "name": "O Clan ..",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {
+        "eurl": "https://pps.whatsapp.net/v/t61.24694-24/461505162_1570124260256675_6844007996010864069_n.jpg?ccb=11-4&oh=01_Q5Aa2AGb03vTTpBUJhP_gcB0OSPUN_CtECnIcXouQkhSN6vdzg&oe=688AB619&_nc_sid=5e03e0&_nc_cat=110",
+        "id": {
+          "server": "g.us",
+          "user": "120363357771730188",
+          "_serialized": "120363357771730188@g.us"
+        },
+        "img": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/461505162_1570124260256675_6844007996010864069_n.jpg?stp=dst-jpg_s96x96_tt6&ccb=11-4&oh=01_Q5Aa2AEiC-NUHmNBr5FXllczjBME4_a7ypLe_E9FMzVQ4jScLw&oe=688AB619&_nc_sid=5e03e0&_nc_cat=110",
+        "imgFull": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/461505162_1570124260256675_6844007996010864069_n.jpg?ccb=11-4&oh=01_Q5Aa2AGb03vTTpBUJhP_gcB0OSPUN_CtECnIcXouQkhSN6vdzg&oe=688AB619&_nc_sid=5e03e0&_nc_cat=110",
+        "tag": "1730974792"
+      },
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363357771730188",
+        "_serialized": "120363357771730188@g.us"
+      },
+      "subject": "O Clan ..",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363357771730188",
+        "_serialized": "120363357771730188@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363161551702004",
+      "_serialized": "120363161551702004@g.us"
+    },
+    "pendingMsgs": false,
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363161551702004",
+        "_serialized": "120363161551702004@g.us"
+      },
+      "id": "3A3D114159DA1790F6D8",
+      "participant": {
+        "server": "c.us",
+        "user": "5521983570711",
+        "_serialized": "5521983570711@c.us"
+      },
+      "_serialized": "false_120363161551702004@g.us_3A3D114159DA1790F6D8_5521983570711@c.us"
+    },
+    "t": 1753056984,
+    "unreadCount": 10,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "BLITZ 🚨🚔🚫🚧🚨🚓🚥🚦",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363161551702004",
+        "_serialized": "120363161551702004@g.us"
+      },
+      "name": "BLITZ 🚨🚔🚫🚧🚨🚓🚥🚦",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363161551702004",
+        "_serialized": "120363161551702004@g.us"
+      },
+      "subject": "BLITZ 🚨🚔🚫🚧🚨🚓🚥🚦",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363161551702004",
+        "_serialized": "120363161551702004@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "557488548893-1430671844",
+      "_serialized": "557488548893-1430671844@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "557488548893-1430671844",
+        "_serialized": "557488548893-1430671844@g.us"
+      },
+      "id": "3A05B7C8A6DCBA55DEF5",
+      "participant": {
+        "server": "c.us",
+        "user": "642040088593",
+        "_serialized": "642040088593@c.us"
+      },
+      "_serialized": "false_557488548893-1430671844@g.us_3A05B7C8A6DCBA55DEF5_642040088593@c.us"
+    },
+    "t": 1753038321,
+    "unreadCount": 334,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Ciência e ceticismo",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "557488548893-1430671844",
+        "_serialized": "557488548893-1430671844@g.us"
+      },
+      "name": "Ciência e ceticismo",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "557488548893-1430671844",
+        "_serialized": "557488548893-1430671844@g.us"
+      },
+      "subject": "Ciência e ceticismo",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "557488548893-1430671844",
+        "_serialized": "557488548893-1430671844@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363382543089701",
+      "_serialized": "120363382543089701@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363382543089701",
+        "_serialized": "120363382543089701@g.us"
+      },
+      "id": "3EB0FE7D0710F763BE0BCF8FCEE586E3D8D1D2A4",
+      "participant": {
+        "server": "c.us",
+        "user": "5519997735095",
+        "_serialized": "5519997735095@c.us"
+      },
+      "_serialized": "false_120363382543089701@g.us_3EB0FE7D0710F763BE0BCF8FCEE586E3D8D1D2A4_5519997735095@c.us"
+    },
+    "t": 1753034679,
+    "unreadCount": 225,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Full Stack Week  #25",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 7,
+    "hasUnreadMention": true,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363382543089701",
+        "_serialized": "120363382543089701@g.us"
+      },
+      "name": "Full Stack Week  #25",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {
+        "eurl": "https://pps.whatsapp.net/v/t61.24694-24/477592143_646008654772899_1307959636778008292_n.jpg?ccb=11-4&oh=01_Q5Aa2AF_u61lJdYDziuaLhyq0-tuxHCGTYcSZFAiMrnr0eP09Q&oe=688AB1E3&_nc_sid=5e03e0&_nc_cat=102",
+        "id": {
+          "server": "g.us",
+          "user": "120363382543089701",
+          "_serialized": "120363382543089701@g.us"
+        },
+        "img": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/477592143_646008654772899_1307959636778008292_n.jpg?stp=dst-jpg_s96x96_tt6&ccb=11-4&oh=01_Q5Aa2AGyAQ9FE9ugY-uWvHLmDj21zuYByLOqcYx3nQPCIq5p7g&oe=688AB1E3&_nc_sid=5e03e0&_nc_cat=102",
+        "imgFull": "https://media-poa1-1.cdn.whatsapp.net/v/t61.24694-24/477592143_646008654772899_1307959636778008292_n.jpg?ccb=11-4&oh=01_Q5Aa2AF_u61lJdYDziuaLhyq0-tuxHCGTYcSZFAiMrnr0eP09Q&oe=688AB1E3&_nc_sid=5e03e0&_nc_cat=102",
+        "tag": "1739542543"
+      },
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363382543089701",
+        "_serialized": "120363382543089701@g.us"
+      },
+      "subject": "Full Stack Week  #25",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363382543089701",
+        "_serialized": "120363382543089701@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363403821184229",
+      "_serialized": "120363403821184229@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": true,
+      "remote": {
+        "server": "g.us",
+        "user": "120363403821184229",
+        "_serialized": "120363403821184229@g.us"
+      },
+      "id": "BE51BA6B833991BD8DBA3953AAAED9F0",
+      "participant": {
+        "server": "c.us",
+        "user": "555189506264",
+        "_serialized": "555189506264@c.us"
+      },
+      "_serialized": "true_120363403821184229@g.us_BE51BA6B833991BD8DBA3953AAAED9F0_555189506264@c.us"
+    },
+    "t": 1753023924,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Mercado lista mercado ",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403821184229",
+        "_serialized": "120363403821184229@g.us"
+      },
+      "name": "Mercado lista mercado ",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {
+        "id": {
+          "server": "g.us",
+          "user": "120363403821184229",
+          "_serialized": "120363403821184229@g.us"
+        },
+        "tag": ""
+      },
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403821184229",
+        "_serialized": "120363403821184229@g.us"
+      },
+      "subject": "Mercado lista mercado ",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403821184229",
+        "_serialized": "120363403821184229@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363352762089680",
+      "_serialized": "120363352762089680@g.us"
+    },
+    "labels": [
+      "4"
+    ],
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363352762089680",
+        "_serialized": "120363352762089680@g.us"
+      },
+      "id": "3AA2912FF644CA5EBD93",
+      "participant": {
+        "server": "c.us",
+        "user": "555199109998",
+        "_serialized": "555199109998@c.us"
+      },
+      "_serialized": "false_120363352762089680@g.us_3AA2912FF644CA5EBD93_555199109998@c.us"
+    },
+    "t": 1753012757,
+    "unreadCount": 71,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "🇨🇬 Tênis Porto Alegre - Quadras Públicas 🎾",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363352762089680",
+        "_serialized": "120363352762089680@g.us"
+      },
+      "name": "🇨🇬 Tênis Porto Alegre - Quadras Públicas 🎾",
+      "type": "in",
+      "labels": [
+        "4"
+      ],
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363352762089680",
+        "_serialized": "120363352762089680@g.us"
+      },
+      "subject": "🇨🇬 Tênis Porto Alegre - Quadras Públicas 🎾",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363352762089680",
+        "_serialized": "120363352762089680@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555191033683-1631297408",
+      "_serialized": "555191033683-1631297408@g.us"
+    },
+    "pendingMsgs": false,
+    "lastReceivedKey": {
+      "fromMe": true,
+      "remote": {
+        "server": "g.us",
+        "user": "555191033683-1631297408",
+        "_serialized": "555191033683-1631297408@g.us"
+      },
+      "id": "F83B46903FB283F6F7F391457BA91DB9",
+      "participant": {
+        "server": "c.us",
+        "user": "555189506264",
+        "_serialized": "555189506264@c.us"
+      },
+      "_serialized": "true_555191033683-1631297408@g.us_F83B46903FB283F6F7F391457BA91DB9_555189506264@c.us"
+    },
+    "t": 1752987819,
+    "unreadCount": 1,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "BLITZ PORTO ALEGRE",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555191033683-1631297408",
+        "_serialized": "555191033683-1631297408@g.us"
+      },
+      "name": "BLITZ PORTO ALEGRE",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555191033683-1631297408",
+        "_serialized": "555191033683-1631297408@g.us"
+      },
+      "subject": "BLITZ PORTO ALEGRE",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555191033683-1631297408",
+        "_serialized": "555191033683-1631297408@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363046695483827",
+      "_serialized": "120363046695483827@g.us"
+    },
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363046695483827",
+        "_serialized": "120363046695483827@g.us"
+      },
+      "id": "3A621E234C340D3B08AA",
+      "participant": {
+        "server": "c.us",
+        "user": "555181649944",
+        "_serialized": "555181649944@c.us"
+      },
+      "_serialized": "false_120363046695483827@g.us_3A621E234C340D3B08AA_555181649944@c.us"
+    },
+    "t": 1752979713,
+    "unreadCount": 439,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "QUEROVAGAS23 - VAGAS TI",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363046695483827",
+        "_serialized": "120363046695483827@g.us"
+      },
+      "name": "QUEROVAGAS23 - VAGAS TI",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363046695483827",
+        "_serialized": "120363046695483827@g.us"
+      },
+      "subject": "QUEROVAGAS23 - VAGAS TI",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363046695483827",
+        "_serialized": "120363046695483827@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363040646133329",
+      "_serialized": "120363040646133329@g.us"
+    },
+    "pendingMsgs": false,
+    "lastReceivedKey": {
+      "fromMe": false,
+      "remote": {
+        "server": "g.us",
+        "user": "120363040646133329",
+        "_serialized": "120363040646133329@g.us"
+      },
+      "id": "3ABAEFBE4B77E1270B3B",
+      "participant": {
+        "server": "c.us",
+        "user": "555189089573",
+        "_serialized": "555189089573@c.us"
+      },
+      "_serialized": "false_120363040646133329@g.us_3ABAEFBE4B77E1270B3B_555189089573@c.us"
+    },
+    "t": 1752978437,
+    "unreadCount": 4,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "26-Blitz e Radar Poa-RS🚔🚧",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": false,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363040646133329",
+        "_serialized": "120363040646133329@g.us"
+      },
+      "name": "26-Blitz e Radar Poa-RS🚔🚧",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363040646133329",
+        "_serialized": "120363040646133329@g.us"
+      },
+      "subject": "26-Blitz e Radar Poa-RS🚔🚧",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363040646133329",
+        "_serialized": "120363040646133329@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "557591674108-1564611291",
+      "_serialized": "557591674108-1564611291@g.us"
+    },
+    "t": 1752961497,
+    "unreadCount": 1547,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "WebDeveloper FullStack",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "557591674108-1564611291",
+        "_serialized": "557591674108-1564611291@g.us"
+      },
+      "name": "WebDeveloper FullStack",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "557591674108-1564611291",
+        "_serialized": "557591674108-1564611291@g.us"
+      },
+      "subject": "WebDeveloper FullStack",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "557591674108-1564611291",
+        "_serialized": "557591674108-1564611291@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363047798800714",
+      "_serialized": "120363047798800714@g.us"
+    },
+    "t": 1752950130,
+    "unreadCount": 36,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Vemdachinna",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363047798800714",
+        "_serialized": "120363047798800714@g.us"
+      },
+      "name": "Vemdachinna",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363047798800714",
+        "_serialized": "120363047798800714@g.us"
+      },
+      "subject": "Vemdachinna",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363047798800714",
+        "_serialized": "120363047798800714@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555193744895-1581530922",
+      "_serialized": "555193744895-1581530922@g.us"
+    },
+    "t": 1752935760,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "🎾 Informações tênis GNU",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555193744895-1581530922",
+        "_serialized": "555193744895-1581530922@g.us"
+      },
+      "name": "🎾 Informações tênis GNU",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555193744895-1581530922",
+        "_serialized": "555193744895-1581530922@g.us"
+      },
+      "subject": "🎾 Informações tênis GNU",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555193744895-1581530922",
+        "_serialized": "555193744895-1581530922@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363403291689675",
+      "_serialized": "120363403291689675@g.us"
+    },
+    "t": 1752932735,
+    "unreadCount": 6,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Desafio DevOps & Cloud | 3ª edição #02",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403291689675",
+        "_serialized": "120363403291689675@g.us"
+      },
+      "name": "Desafio DevOps & Cloud | 3ª edição #02",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403291689675",
+        "_serialized": "120363403291689675@g.us"
+      },
+      "subject": "Desafio DevOps & Cloud | 3ª edição #02",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403291689675",
+        "_serialized": "120363403291689675@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363027551534089",
+      "_serialized": "120363027551534089@g.us"
+    },
+    "t": 1752929457,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "BLITZ E BARREIRAS 🚨",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363027551534089",
+        "_serialized": "120363027551534089@g.us"
+      },
+      "name": "BLITZ E BARREIRAS 🚨",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363027551534089",
+        "_serialized": "120363027551534089@g.us"
+      },
+      "subject": "BLITZ E BARREIRAS 🚨",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363027551534089",
+        "_serialized": "120363027551534089@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555199677256-1555291428",
+      "_serialized": "555199677256-1555291428@g.us"
+    },
+    "t": 1752929115,
+    "unreadCount": 67,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "ENGENHARIAS - FAPA",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555199677256-1555291428",
+        "_serialized": "555199677256-1555291428@g.us"
+      },
+      "name": "ENGENHARIAS - FAPA",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555199677256-1555291428",
+        "_serialized": "555199677256-1555291428@g.us"
+      },
+      "subject": "ENGENHARIAS - FAPA",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555199677256-1555291428",
+        "_serialized": "555199677256-1555291428@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363402904655541",
+      "_serialized": "120363402904655541@g.us"
+    },
+    "t": 1752883310,
+    "unreadCount": 1069,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "🚗REPASSES DE VEICULOS 🇧🇷2 @ QUITADOS ! FUTURA NP !",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363402904655541",
+        "_serialized": "120363402904655541@g.us"
+      },
+      "name": "🚗REPASSES DE VEICULOS 🇧🇷2 @ QUITADOS ! FUTURA NP !",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363402904655541",
+        "_serialized": "120363402904655541@g.us"
+      },
+      "subject": "🚗REPASSES DE VEICULOS 🇧🇷2 @ QUITADOS ! FUTURA NP !",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363402904655541",
+        "_serialized": "120363402904655541@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363179294028453",
+      "_serialized": "120363179294028453@g.us"
+    },
+    "t": 1752881360,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Repasse Notebooks",
+    "notSpam": true,
+    "ephemeralDuration": 7776000,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363179294028453",
+        "_serialized": "120363179294028453@g.us"
+      },
+      "name": "Repasse Notebooks",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363179294028453",
+        "_serialized": "120363179294028453@g.us"
+      },
+      "subject": "Repasse Notebooks",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363179294028453",
+        "_serialized": "120363179294028453@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363371631194475",
+      "_serialized": "120363371631194475@g.us"
+    },
+    "t": 1752877272,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "REALEZA REPASSES GP 11🚘",
+    "notSpam": false,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363371631194475",
+        "_serialized": "120363371631194475@g.us"
+      },
+      "name": "REALEZA REPASSES GP 11🚘",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363371631194475",
+        "_serialized": "120363371631194475@g.us"
+      },
+      "subject": "REALEZA REPASSES GP 11🚘",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363371631194475",
+        "_serialized": "120363371631194475@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363370140924540",
+      "_serialized": "120363370140924540@g.us"
+    },
+    "t": 1752868457,
+    "unreadCount": 1520,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "*🇧🇷• 4 UP REPASSES 💰🚘*",
+    "notSpam": false,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363370140924540",
+        "_serialized": "120363370140924540@g.us"
+      },
+      "name": "*🇧🇷• 4 UP REPASSES 💰🚘*",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363370140924540",
+        "_serialized": "120363370140924540@g.us"
+      },
+      "subject": "*🇧🇷• 4 UP REPASSES 💰🚘*",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363370140924540",
+        "_serialized": "120363370140924540@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363370971412561",
+      "_serialized": "120363370971412561@g.us"
+    },
+    "t": 1752868291,
+    "unreadCount": 476,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "🥇🏎️ Up!  Repasses",
+    "notSpam": false,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363370971412561",
+        "_serialized": "120363370971412561@g.us"
+      },
+      "name": "🥇🏎️ Up!  Repasses",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363370971412561",
+        "_serialized": "120363370971412561@g.us"
+      },
+      "subject": "🥇🏎️ Up!  Repasses",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363370971412561",
+        "_serialized": "120363370971412561@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363042212506408",
+      "_serialized": "120363042212506408@g.us"
+    },
+    "t": 1752866312,
+    "unreadCount": 4084,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Repasses ONE  ( 4 )",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363042212506408",
+        "_serialized": "120363042212506408@g.us"
+      },
+      "name": "Repasses ONE  ( 4 )",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363042212506408",
+        "_serialized": "120363042212506408@g.us"
+      },
+      "subject": "Repasses ONE  ( 4 )",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363042212506408",
+        "_serialized": "120363042212506408@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363418199098668",
+      "_serialized": "120363418199098668@g.us"
+    },
+    "t": 1752861196,
+    "unreadCount": 10,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "#102 Imersão Cloud DevOps - Alura + Google Cloud | Leia a descrição",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363418199098668",
+        "_serialized": "120363418199098668@g.us"
+      },
+      "name": "#102 Imersão Cloud DevOps - Alura + Google Cloud | Leia a descrição",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363418199098668",
+        "_serialized": "120363418199098668@g.us"
+      },
+      "subject": "#102 Imersão Cloud DevOps - Alura + Google Cloud | Leia a descrição",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363418199098668",
+        "_serialized": "120363418199098668@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363421580299387",
+      "_serialized": "120363421580299387@g.us"
+    },
+    "t": 1752858785,
+    "unreadCount": 6,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "#142 Imersão Cloud DevOps - Alura + Google Cloud | Leia a descrição",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363421580299387",
+        "_serialized": "120363421580299387@g.us"
+      },
+      "name": "#142 Imersão Cloud DevOps - Alura + Google Cloud | Leia a descrição",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363421580299387",
+        "_serialized": "120363421580299387@g.us"
+      },
+      "subject": "#142 Imersão Cloud DevOps - Alura + Google Cloud | Leia a descrição",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363421580299387",
+        "_serialized": "120363421580299387@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363403439048145",
+      "_serialized": "120363403439048145@g.us"
+    },
+    "t": 1752856397,
+    "unreadCount": 142,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "BC Repasses & Intermediações GP#10",
+    "notSpam": false,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403439048145",
+        "_serialized": "120363403439048145@g.us"
+      },
+      "name": "BC Repasses & Intermediações GP#10",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403439048145",
+        "_serialized": "120363403439048145@g.us"
+      },
+      "subject": "BC Repasses & Intermediações GP#10",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363403439048145",
+        "_serialized": "120363403439048145@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555183222000-1493253659",
+      "_serialized": "555183222000-1493253659@g.us"
+    },
+    "t": 1752851254,
+    "unreadCount": 500,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Vagas - TI",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555183222000-1493253659",
+        "_serialized": "555183222000-1493253659@g.us"
+      },
+      "name": "Vagas - TI",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555183222000-1493253659",
+        "_serialized": "555183222000-1493253659@g.us"
+      },
+      "subject": "Vagas - TI",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555183222000-1493253659",
+        "_serialized": "555183222000-1493253659@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363166900408556",
+      "_serialized": "120363166900408556@g.us"
+    },
+    "t": 1752850863,
+    "unreadCount": 1361,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Repasses ONE  ( 6 )",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363166900408556",
+        "_serialized": "120363166900408556@g.us"
+      },
+      "name": "Repasses ONE  ( 6 )",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363166900408556",
+        "_serialized": "120363166900408556@g.us"
+      },
+      "subject": "Repasses ONE  ( 6 )",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363166900408556",
+        "_serialized": "120363166900408556@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363196159154177",
+      "_serialized": "120363196159154177@g.us"
+    },
+    "t": 1752844461,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Ofertas ( Fevereiro E Março)",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363196159154177",
+        "_serialized": "120363196159154177@g.us"
+      },
+      "name": "Ofertas ( Fevereiro E Março)",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363196159154177",
+        "_serialized": "120363196159154177@g.us"
+      },
+      "subject": "Ofertas ( Fevereiro E Março)",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363196159154177",
+        "_serialized": "120363196159154177@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363216820157828",
+      "_serialized": "120363216820157828@g.us"
+    },
+    "t": 1752844461,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Ofertas notebooks ",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363216820157828",
+        "_serialized": "120363216820157828@g.us"
+      },
+      "name": "Ofertas notebooks ",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363216820157828",
+        "_serialized": "120363216820157828@g.us"
+      },
+      "subject": "Ofertas notebooks ",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363216820157828",
+        "_serialized": "120363216820157828@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363396933662727",
+      "_serialized": "120363396933662727@g.us"
+    },
+    "t": 1752779775,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "BotDev 2025 #002",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363396933662727",
+        "_serialized": "120363396933662727@g.us"
+      },
+      "name": "BotDev 2025 #002",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363396933662727",
+        "_serialized": "120363396933662727@g.us"
+      },
+      "creation": 1738191837000,
+      "owner": {
+        "server": "c.us",
+        "user": "555192963583",
+        "_serialized": "555192963583@c.us"
+      },
+      "subject": "BotDev 2025 #002",
+      "desc": "Evento encerrado. Obrigado.",
+      "suspended": false,
+      "terminated": false,
+      "uniqueShortNameMap": {},
+      "isParentGroup": false,
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363396933662727",
+        "_serialized": "120363396933662727@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363399701354126",
+      "_serialized": "120363399701354126@g.us"
+    },
+    "t": 1752770485,
+    "unreadCount": 4,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "❌ VAGAS ESGOTADAS",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 4,
+    "hasUnreadMention": true,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363399701354126",
+        "_serialized": "120363399701354126@g.us"
+      },
+      "name": "❌ VAGAS ESGOTADAS",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363399701354126",
+        "_serialized": "120363399701354126@g.us"
+      },
+      "subject": "❌ VAGAS ESGOTADAS",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363399701354126",
+        "_serialized": "120363399701354126@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363404078723737",
+      "_serialized": "120363404078723737@g.us"
+    },
+    "t": 1752679159,
+    "unreadCount": 9,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "INGLÊS PARA DEVS #9",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 9,
+    "hasUnreadMention": true,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363404078723737",
+        "_serialized": "120363404078723737@g.us"
+      },
+      "name": "INGLÊS PARA DEVS #9",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363404078723737",
+        "_serialized": "120363404078723737@g.us"
+      },
+      "subject": "INGLÊS PARA DEVS #9",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363404078723737",
+        "_serialized": "120363404078723737@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363134866905976",
+      "_serialized": "120363134866905976@g.us"
+    },
+    "t": 1752670760,
+    "unreadCount": 30,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "TCB VIP PT C007",
+    "notSpam": false,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363134866905976",
+        "_serialized": "120363134866905976@g.us"
+      },
+      "name": "TCB VIP PT C007",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363134866905976",
+        "_serialized": "120363134866905976@g.us"
+      },
+      "subject": "TCB VIP PT C007",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363134866905976",
+        "_serialized": "120363134866905976@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363402244447009",
+      "_serialized": "120363402244447009@g.us"
+    },
+    "t": 1752670720,
+    "unreadCount": 17,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "CHALLENGE P0224 #001",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363402244447009",
+        "_serialized": "120363402244447009@g.us"
+      },
+      "name": "CHALLENGE P0224 #001",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363402244447009",
+        "_serialized": "120363402244447009@g.us"
+      },
+      "subject": "CHALLENGE P0224 #001",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363402244447009",
+        "_serialized": "120363402244447009@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555198759983-1606670133",
+      "_serialized": "555198759983-1606670133@g.us"
+    },
+    "t": 1752605888,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Litoral ida/volta",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555198759983-1606670133",
+        "_serialized": "555198759983-1606670133@g.us"
+      },
+      "name": "Litoral ida/volta",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555198759983-1606670133",
+        "_serialized": "555198759983-1606670133@g.us"
+      },
+      "subject": "Litoral ida/volta",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555198759983-1606670133",
+        "_serialized": "555198759983-1606670133@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363401017007992",
+      "_serialized": "120363401017007992@g.us"
+    },
+    "t": 1752551725,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Goldenfir 21号 6.23",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363401017007992",
+        "_serialized": "120363401017007992@g.us"
+      },
+      "name": "Goldenfir 21号 6.23",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363401017007992",
+        "_serialized": "120363401017007992@g.us"
+      },
+      "subject": "Goldenfir 21号 6.23",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363401017007992",
+        "_serialized": "120363401017007992@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363383934695557",
+      "_serialized": "120363383934695557@g.us"
+    },
+    "t": 1752522461,
+    "unreadCount": 6,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "📚 BANRISUL - Grupo de Estudos #1",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363383934695557",
+        "_serialized": "120363383934695557@g.us"
+      },
+      "name": "📚 BANRISUL - Grupo de Estudos #1",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363383934695557",
+        "_serialized": "120363383934695557@g.us"
+      },
+      "subject": "📚 BANRISUL - Grupo de Estudos #1",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363383934695557",
+        "_serialized": "120363383934695557@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363417690693314",
+      "_serialized": "120363417690693314@g.us"
+    },
+    "t": 1752513458,
+    "unreadCount": 5,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Dietze Tênis junho",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417690693314",
+        "_serialized": "120363417690693314@g.us"
+      },
+      "name": "Dietze Tênis junho",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417690693314",
+        "_serialized": "120363417690693314@g.us"
+      },
+      "subject": "Dietze Tênis junho",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417690693314",
+        "_serialized": "120363417690693314@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363020516848727",
+      "_serialized": "120363020516848727@g.us"
+    },
+    "t": 1752345245,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "News  em alerta 🇲🇱🚧",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363020516848727",
+        "_serialized": "120363020516848727@g.us"
+      },
+      "name": "News  em alerta 🇲🇱🚧",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363020516848727",
+        "_serialized": "120363020516848727@g.us"
+      },
+      "subject": "News  em alerta 🇲🇱🚧",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363020516848727",
+        "_serialized": "120363020516848727@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363365282718272",
+      "_serialized": "120363365282718272@g.us"
+    },
+    "t": 1752317112,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Tennis stretches",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363365282718272",
+        "_serialized": "120363365282718272@g.us"
+      },
+      "name": "Tennis stretches",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363365282718272",
+        "_serialized": "120363365282718272@g.us"
+      },
+      "subject": "Tennis stretches",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363365282718272",
+        "_serialized": "120363365282718272@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363400978016457",
+      "_serialized": "120363400978016457@g.us"
+    },
+    "t": 1752265143,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Organização financeira eue Manu 💜",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363400978016457",
+        "_serialized": "120363400978016457@g.us"
+      },
+      "name": "Organização financeira eue Manu 💜",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363400978016457",
+        "_serialized": "120363400978016457@g.us"
+      },
+      "subject": "Organização financeira eue Manu 💜",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363400978016457",
+        "_serialized": "120363400978016457@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363263154742627",
+      "_serialized": "120363263154742627@g.us"
+    },
+    "t": 1752261323,
+    "unreadCount": 27,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Rocketseat | Grupo Vip #17",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 1,
+    "hasUnreadMention": true,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363263154742627",
+        "_serialized": "120363263154742627@g.us"
+      },
+      "name": "Rocketseat | Grupo Vip #17",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363263154742627",
+        "_serialized": "120363263154742627@g.us"
+      },
+      "subject": "Rocketseat | Grupo Vip #17",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363263154742627",
+        "_serialized": "120363263154742627@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363401843051508",
+      "_serialized": "120363401843051508@g.us"
+    },
+    "t": 1752253038,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "tênis poa",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "chatlistPreview": {
+      "type": "reaction",
+      "msgKey": "true_120363401843051508@g.us_3FE43D92455D6747F1D21D62C3685469_555189506264@c.us",
+      "parentMsgKey": "false_120363401843051508@g.us_3FAB749F62EDA8A7154C_554899950421@c.us",
+      "reactionText": "👍",
+      "sender": "555189506264@c.us",
+      "timestamp": 1752253167541
+    },
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363401843051508",
+        "_serialized": "120363401843051508@g.us"
+      },
+      "name": "tênis poa",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363401843051508",
+        "_serialized": "120363401843051508@g.us"
+      },
+      "subject": "tênis poa",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363401843051508",
+        "_serialized": "120363401843051508@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363149006637241",
+      "_serialized": "120363149006637241@g.us"
+    },
+    "t": 1752234664,
+    "unreadCount": 148,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Conscientizaçao da Consciencia humana😵‍💫",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363149006637241",
+        "_serialized": "120363149006637241@g.us"
+      },
+      "name": "Conscientizaçao da Consciencia humana😵‍💫",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363149006637241",
+        "_serialized": "120363149006637241@g.us"
+      },
+      "subject": "Conscientizaçao da Consciencia humana😵‍💫",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363149006637241",
+        "_serialized": "120363149006637241@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "5511941421517-1518128749",
+      "_serialized": "5511941421517-1518128749@g.us"
+    },
+    "t": 1751801928,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Mineração ⛏",
+    "notSpam": true,
+    "ephemeralDuration": 604800,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "5511941421517-1518128749",
+        "_serialized": "5511941421517-1518128749@g.us"
+      },
+      "name": "Mineração ⛏",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "5511941421517-1518128749",
+        "_serialized": "5511941421517-1518128749@g.us"
+      },
+      "subject": "Mineração ⛏",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "5511941421517-1518128749",
+        "_serialized": "5511941421517-1518128749@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363306327131477",
+      "_serialized": "120363306327131477@g.us"
+    },
+    "labels": [
+      "4"
+    ],
+    "t": 1751400921,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Tênis 🎾 Germânia",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363306327131477",
+        "_serialized": "120363306327131477@g.us"
+      },
+      "name": "Tênis 🎾 Germânia",
+      "type": "in",
+      "labels": [
+        "4"
+      ],
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363306327131477",
+        "_serialized": "120363306327131477@g.us"
+      },
+      "subject": "Tênis 🎾 Germânia",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363306327131477",
+        "_serialized": "120363306327131477@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363398311209445",
+      "_serialized": "120363398311209445@g.us"
+    },
+    "t": 1751388780,
+    "unreadCount": 40,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Carros Np - Pizeira - Futura Quitação - Marcos Repasse Brasil 🇧🇷🚙🚘",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363398311209445",
+        "_serialized": "120363398311209445@g.us"
+      },
+      "name": "Carros Np - Pizeira - Futura Quitação - Marcos Repasse Brasil 🇧🇷🚙🚘",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363398311209445",
+        "_serialized": "120363398311209445@g.us"
+      },
+      "subject": "Carros Np - Pizeira - Futura Quitação - Marcos Repasse Brasil 🇧🇷🚙🚘",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363398311209445",
+        "_serialized": "120363398311209445@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "5521979279366-1630521712",
+      "_serialized": "5521979279366-1630521712@g.us"
+    },
+    "t": 1751383283,
+    "unreadCount": 103,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "DevOps na Veia #01",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 44,
+    "hasUnreadMention": true,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "5521979279366-1630521712",
+        "_serialized": "5521979279366-1630521712@g.us"
+      },
+      "name": "DevOps na Veia #01",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "5521979279366-1630521712",
+        "_serialized": "5521979279366-1630521712@g.us"
+      },
+      "subject": "DevOps na Veia #01",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "5521979279366-1630521712",
+        "_serialized": "5521979279366-1630521712@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "2348102669914-1597347287",
+      "_serialized": "2348102669914-1597347287@g.us"
+    },
+    "t": 1751200324,
+    "unreadCount": 125,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "CS50x",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "2348102669914-1597347287",
+        "_serialized": "2348102669914-1597347287@g.us"
+      },
+      "name": "CS50x",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "2348102669914-1597347287",
+        "_serialized": "2348102669914-1597347287@g.us"
+      },
+      "subject": "CS50x",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "2348102669914-1597347287",
+        "_serialized": "2348102669914-1597347287@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363265924796493",
+      "_serialized": "120363265924796493@g.us"
+    },
+    "t": 1751041487,
+    "unreadCount": 2,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "RDS - Desenvolvimento",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363265924796493",
+        "_serialized": "120363265924796493@g.us"
+      },
+      "name": "RDS - Desenvolvimento",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363265924796493",
+        "_serialized": "120363265924796493@g.us"
+      },
+      "subject": "RDS - Desenvolvimento",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363265924796493",
+        "_serialized": "120363265924796493@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555184180148-1594653842",
+      "_serialized": "555184180148-1594653842@g.us"
+    },
+    "t": 1750876580,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "09-LimaG07🔥trânsito suave",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555184180148-1594653842",
+        "_serialized": "555184180148-1594653842@g.us"
+      },
+      "name": "09-LimaG07🔥trânsito suave",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555184180148-1594653842",
+        "_serialized": "555184180148-1594653842@g.us"
+      },
+      "subject": "09-LimaG07🔥trânsito suave",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555184180148-1594653842",
+        "_serialized": "555184180148-1594653842@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363039211670524",
+      "_serialized": "120363039211670524@g.us"
+    },
+    "labels": [
+      "4"
+    ],
+    "t": 1750705820,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Tênis Independência",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363039211670524",
+        "_serialized": "120363039211670524@g.us"
+      },
+      "name": "Tênis Independência",
+      "type": "in",
+      "labels": [
+        "4"
+      ],
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363039211670524",
+        "_serialized": "120363039211670524@g.us"
+      },
+      "subject": "Tênis Independência",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363039211670524",
+        "_serialized": "120363039211670524@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363303120818940",
+      "_serialized": "120363303120818940@g.us"
+    },
+    "labels": [
+      "4"
+    ],
+    "t": 1750524105,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "Tenistas de Viamão ",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363303120818940",
+        "_serialized": "120363303120818940@g.us"
+      },
+      "name": "Tenistas de Viamão ",
+      "type": "in",
+      "labels": [
+        "4"
+      ],
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363303120818940",
+        "_serialized": "120363303120818940@g.us"
+      },
+      "subject": "Tenistas de Viamão ",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363303120818940",
+        "_serialized": "120363303120818940@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555185709896-1624402111",
+      "_serialized": "555185709896-1624402111@g.us"
+    },
+    "t": 1749561216,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "21 -  Lima G-07🔥De 👁️🚓",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555185709896-1624402111",
+        "_serialized": "555185709896-1624402111@g.us"
+      },
+      "name": "21 -  Lima G-07🔥De 👁️🚓",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555185709896-1624402111",
+        "_serialized": "555185709896-1624402111@g.us"
+      },
+      "subject": "21 -  Lima G-07🔥De 👁️🚓",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555185709896-1624402111",
+        "_serialized": "555185709896-1624402111@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363394386155384",
+      "_serialized": "120363394386155384@g.us"
+    },
+    "t": 1749249261,
+    "unreadCount": 23,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "#19 Notificações pythonando",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 1,
+    "hasUnreadMention": true,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363394386155384",
+        "_serialized": "120363394386155384@g.us"
+      },
+      "name": "#19 Notificações pythonando",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363394386155384",
+        "_serialized": "120363394386155384@g.us"
+      },
+      "subject": "#19 Notificações pythonando",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363394386155384",
+        "_serialized": "120363394386155384@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363393078509495",
+      "_serialized": "120363393078509495@g.us"
+    },
+    "t": 1749173236,
+    "unreadCount": 6,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "High-Value Developer Roadmap #2",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363393078509495",
+        "_serialized": "120363393078509495@g.us"
+      },
+      "name": "High-Value Developer Roadmap #2",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363393078509495",
+        "_serialized": "120363393078509495@g.us"
+      },
+      "subject": "High-Value Developer Roadmap #2",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363393078509495",
+        "_serialized": "120363393078509495@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363200084128470",
+      "_serialized": "120363200084128470@g.us"
+    },
+    "t": 1748989756,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Alunos do 🍫",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363200084128470",
+        "_serialized": "120363200084128470@g.us"
+      },
+      "name": "Alunos do 🍫",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363200084128470",
+        "_serialized": "120363200084128470@g.us"
+      },
+      "subject": "Alunos do 🍫",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363200084128470",
+        "_serialized": "120363200084128470@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363031853576998",
+      "_serialized": "120363031853576998@g.us"
+    },
+    "t": 1748652928,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Trânsito E Fiscalização",
+    "notSpam": true,
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 0,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363031853576998",
+        "_serialized": "120363031853576998@g.us"
+      },
+      "name": "Trânsito E Fiscalização",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363031853576998",
+        "_serialized": "120363031853576998@g.us"
+      },
+      "subject": "Trânsito E Fiscalização",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363031853576998",
+        "_serialized": "120363031853576998@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555185136379-1607464970",
+      "_serialized": "555185136379-1607464970@g.us"
+    },
+    "t": 1748519272,
+    "unreadCount": 12,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "1050ti da depressão",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555185136379-1607464970",
+        "_serialized": "555185136379-1607464970@g.us"
+      },
+      "name": "1050ti da depressão",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555185136379-1607464970",
+        "_serialized": "555185136379-1607464970@g.us"
+      },
+      "subject": "1050ti da depressão",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555185136379-1607464970",
+        "_serialized": "555185136379-1607464970@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "556194140967-1621180050",
+      "_serialized": "556194140967-1621180050@g.us"
+    },
+    "t": 1747390674,
+    "unreadCount": 77,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "Dev's  web/mobile💻📱",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 7,
+    "hasUnreadMention": true,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "556194140967-1621180050",
+        "_serialized": "556194140967-1621180050@g.us"
+      },
+      "name": "Dev's  web/mobile💻📱",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "556194140967-1621180050",
+        "_serialized": "556194140967-1621180050@g.us"
+      },
+      "subject": "Dev's  web/mobile💻📱",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "556194140967-1621180050",
+        "_serialized": "556194140967-1621180050@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363305856342834",
+      "_serialized": "120363305856342834@g.us"
+    },
+    "t": 1746058210,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "I Independência Open",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363305856342834",
+        "_serialized": "120363305856342834@g.us"
+      },
+      "name": "I Independência Open",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363305856342834",
+        "_serialized": "120363305856342834@g.us"
+      },
+      "subject": "I Independência Open",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363305856342834",
+        "_serialized": "120363305856342834@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "555185077079-1624016902",
+      "_serialized": "555185077079-1624016902@g.us"
+    },
+    "t": 1745944429,
+    "unreadCount": 8,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "08-Grupo do asfalto G-07🔥",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "555185077079-1624016902",
+        "_serialized": "555185077079-1624016902@g.us"
+      },
+      "name": "08-Grupo do asfalto G-07🔥",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "555185077079-1624016902",
+        "_serialized": "555185077079-1624016902@g.us"
+      },
+      "subject": "08-Grupo do asfalto G-07🔥",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "555185077079-1624016902",
+        "_serialized": "555185077079-1624016902@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363203752920331",
+      "_serialized": "120363203752920331@g.us"
+    },
+    "t": 1745428260,
+    "unreadCount": 1052,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "FRANCHIS REPASSES 4",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363203752920331",
+        "_serialized": "120363203752920331@g.us"
+      },
+      "name": "FRANCHIS REPASSES 4",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363203752920331",
+        "_serialized": "120363203752920331@g.us"
+      },
+      "subject": "FRANCHIS REPASSES 4",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": true,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363203752920331",
+        "_serialized": "120363203752920331@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363416456766236",
+      "_serialized": "120363416456766236@g.us"
+    },
+    "t": 1745183847,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "cobrança emanuele",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 0,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363416456766236",
+        "_serialized": "120363416456766236@g.us"
+      },
+      "name": "cobrança emanuele",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363416456766236",
+        "_serialized": "120363416456766236@g.us"
+      },
+      "subject": "cobrança emanuele",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363416456766236",
+        "_serialized": "120363416456766236@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363026123834255",
+      "_serialized": "120363026123834255@g.us"
+    },
+    "t": 1744907778,
+    "unreadCount": 92,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "CS50P",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363026123834255",
+        "_serialized": "120363026123834255@g.us"
+      },
+      "name": "CS50P",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363026123834255",
+        "_serialized": "120363026123834255@g.us"
+      },
+      "subject": "CS50P",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363026123834255",
+        "_serialized": "120363026123834255@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363371170780556",
+      "_serialized": "120363371170780556@g.us"
+    },
+    "t": 1744743281,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": true,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": -1,
+    "isAutoMuted": false,
+    "name": "IMPORTS MULTIMARCAS #01",
+    "notSpam": true,
+    "ephemeralDuration": 604800,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 2,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363371170780556",
+        "_serialized": "120363371170780556@g.us"
+      },
+      "name": "IMPORTS MULTIMARCAS #01",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363371170780556",
+        "_serialized": "120363371170780556@g.us"
+      },
+      "subject": "IMPORTS MULTIMARCAS #01",
+      "suspended": false,
+      "uniqueShortNameMap": {},
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363371170780556",
+        "_serialized": "120363371170780556@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  },
+  {
+    "id": {
+      "server": "g.us",
+      "user": "120363417364766239",
+      "_serialized": "120363417364766239@g.us"
+    },
+    "t": 1744371860,
+    "unreadCount": 0,
+    "unreadDividerOffset": 0,
+    "archive": false,
+    "isReadOnly": false,
+    "isLocked": false,
+    "muteExpiration": 0,
+    "isAutoMuted": false,
+    "name": "GuCambuy grupo 01",
+    "notSpam": true,
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 0,
+    "disappearingModeInitiator": "chat",
+    "disappearingModeTrigger": "chat_settings",
+    "unreadMentionCount": 0,
+    "hasUnreadMention": false,
+    "archiveAtMentionViewedInDrawer": false,
+    "hasChatBeenOpened": false,
+    "tcToken": null,
+    "tcTokenTimestamp": null,
+    "endOfHistoryTransferType": 0,
+    "pendingInitialLoading": true,
+    "celebrationAnimationLastPlayed": 0,
+    "hasRequestedWelcomeMsg": false,
+    "limitSharing": {
+      "trigger": 0
+    },
+    "msgs": null,
+    "contact": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417364766239",
+        "_serialized": "120363417364766239@g.us"
+      },
+      "name": "GuCambuy grupo 01",
+      "type": "in",
+      "textStatusLastUpdateTime": -1,
+      "syncToAddressbook": false,
+      "isUser": false,
+      "profilePicThumbObj": {},
+      "msgs": null
+    },
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417364766239",
+        "_serialized": "120363417364766239@g.us"
+      },
+      "creation": 1743944641000,
+      "owner": {
+        "server": "c.us",
+        "user": "554188203505",
+        "_serialized": "554188203505@c.us"
+      },
+      "subject": "GuCambuy grupo 01",
+      "desc": "Landerlan Cwb\n\n*VALORES DOS PRODUTOS*\n\n*Injetaveis 💉💉 LANDER GOLD*\nDURATESTON PLUS - 250MG/ML - 10ML - R$205,00\nPROPIONATO DE TESTO 100MG/ML - 10ML - R$190,00\nENANTATO DE TESTO - 250MG/ML - 10ML - R$195,00\nCIPIONATO DE TESTO - 200MG/2ML - 10ML - R$190,00\nMASTERON PROPI - 100MG/ML - 10ML - R$205,00\nPRIMOBOLAN - 100MG/ML - 10ML - R$400,00\nSTANOZOLOL - 50MG/ML - 30ML - R$160,00\nBOLDENONA - 250MG/ML - 10ML - R$200,00\nDECA(NANDROLONA) - 200MG/ML - 10ML - R$200,00\nTREMBO ACETATO - 100MG/ML - 10ML - R$250,00\nTREMBO ENANTATO - 200MG/ML - 10ML - R$255,00\n\n*INJETAVEIS KING*\nMASTERON SLOW - 100MG/ML - 10ML - R$180,00\n\n*Orais 💊💊💊*\nANDROLIC(PROVIRON) - 25MG - 20CP - R$130,00\nDIANABOL - 10MG - 100CP - R$130,00\nHEMOGENIM - 50MG - 20 CP - R$130,00\nSTANOZOLOL - 10MG - 100CP - R$130,00\nOXANDROLONA - 5MG - 100CP - R$230,00\nOXANDROLONA - 10MG - 50CP - R$230,00\n\n*Variados 💊💊💊*\n\nSIBUTRAMINA - 15MG - 30CP - R$210,00\nCLEMBUTEROL LANDER - 40MCG - 50CP - R$170\n———— \nPara ver o frete, enviar o CEP.",
+      "suspended": false,
+      "terminated": false,
+      "uniqueShortNameMap": {},
+      "isParentGroup": false,
+      "defaultSubgroup": false,
+      "participants": [],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "presence": {
+      "id": {
+        "server": "g.us",
+        "user": "120363417364766239",
+        "_serialized": "120363417364766239@g.us"
+      },
+      "chatstates": []
+    },
+    "isOnline": null,
+    "lastSeen": null
+  }
+]
