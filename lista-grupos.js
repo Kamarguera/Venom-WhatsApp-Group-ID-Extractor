@@ -11,7 +11,20 @@ venom
     },
     {
       folderNameToken: 'tokens',
-      headless: false
+      headless: false,
+      browserArgs: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-accelerated-2d-canvas',
+        '--no-first-run',
+        '--no-zygote',
+        '--disable-gpu'
+      ],
+      // Mantém a sessão por mais tempo
+      puppeteerOptions: {
+        userDataDir: './user_data'
+      }
     }
   )
   .then(client => {
