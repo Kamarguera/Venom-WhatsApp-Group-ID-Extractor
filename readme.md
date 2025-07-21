@@ -89,3 +89,9 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar correções.
 
 📜 Licença
 Distribuído sob a MIT License.
+
+
+<img width="593" height="343" alt="image" src="https://github.com/user-attachments/assets/d0fba1f9-606c-4bbc-a880-78d916d64c50" />
+
+<img width="385" height="546" alt="image" src="https://github.com/user-attachments/assets/7ad292db-3313-466c-8a4a-ef01c880eff2" />
+
