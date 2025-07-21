@@ -1,5 +1,12 @@
 # 📞 Venom WhatsApp Group ID Extractor
 
+## 🎬 Demo
+[![WhatsApp Groups Demo](https://github.com/user-attachments/assets/0312166a-9a12-49aa-a80e-aca39c85bfda)](...)
+*Extracting 50+ group IDs in seconds!*
+
+[![npm version](https://badge.fury.io/js/venom-bot.svg)](...)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](...)
+
 ## Language / Idioma
 
 - [🇺🇸 English](#english)
